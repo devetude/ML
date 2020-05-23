@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [ML](README.md)
+* [Machine learning](machine-learning.md)
+* [Installation](installation.md)
 
